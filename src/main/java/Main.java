@@ -14,7 +14,7 @@ public class Main {
     public static void main(String[] args) {
 
         //please don't exploit the link
-        String connectionString = "mongodb+srv://root:root@cluster0.1nisbua.mongodb.net/?retryWrites=true&w=majority";
+        String connectionString = "mongodb+srv://root:root@cluster0.zxjthto.mongodb.net/?retryWrites=true&w=majority";
 
         String databaseName = "Library_management";
         String studentCollectionName = "students";
